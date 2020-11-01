@@ -9,9 +9,7 @@
 Результат тестирования совместимости показал, что приложение KeyValidator совместимо с программой OpenJDK11, приложение запускается и выполняет команды.
 
 В результате функционального тестирования приложения KeyValidator выявлены следующие дефекты:
-* https://github.com/DinaOrlova/-1---KeyValidator/issues/2
-* https://github.com/DinaOrlova/-1---KeyValidator/issues/3
-* https://github.com/DinaOrlova/-1---KeyValidator/issues/4
+* https://github.com/DinaOrlova/-1---KeyValidator/issues/5
 
 ## Описание процесса тестирования
 
